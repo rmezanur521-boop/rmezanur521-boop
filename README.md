@@ -52,12 +52,11 @@ Real-time communication platform with group chat and modern messaging features.
 
 ---
 
-## 📊 Top Languages
+
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmezanur521-boop&langs_count=8&layout=compact&theme=tokyonight" 
-  />
+  <img src="https://streak-stats.demolab.com?user=rmezanur521-boop&theme=tokyonight&hide_border=false"/>
 </p>
 
 ---
