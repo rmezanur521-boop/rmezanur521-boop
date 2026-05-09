@@ -55,7 +55,9 @@ Real-time communication platform with group chat and modern messaging features.
 ## 📊 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmezanur521-boop&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmezanur521-boop&layout=compact&theme=github_dark&hide_border=true" 
+  />
 </p>
 
 ---
