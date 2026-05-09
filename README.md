@@ -1,133 +1,115 @@
-<div align="center">
-
-![Header Banner](https://capsule-render.vercel.app/v3/api.svg?type=waving&color=0A66C2&height=280&section=header&text=Mezanur%20Rahaman&fontSize=60&fontAlignY=45&animation=fadeIn&desc=Always%20Learning%20New%20Technologies&descAlignY=58&descAlign=62)
-
-### .NET Developer | Building Real-World Solutions
-
-</div>
+<h1 align="center">Hi 👋, I'm Mezanur Rahaman</h1>
+<h3 align="center">.NET Developer | Backend Enthusiast | Always Learning New Technology</h3>
 
 <p align="center">
-  <a href="https://github.com/mezanur-rahaman"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/mezanur-rahaman-6066752b5"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:rmezanur521@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=ASP.NET+Core+Developer;Backend+Focused+Developer;Building+Real-Life+Projects;Open+Source+Enthusiast;Always+Learning+New+Technology" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👋 Hi there, I'm Mezanur Rahaman
+## 🚀 About Me
 
-<p align="center">
-  <span id="typing" style="font-size: 1.1em; color: #0A66C2; font-weight: 500;"></span>
+- 🔭 Currently working on **Real-Life Projects**
+- 🌱 Learning new technologies every day
+- 💬 Ask me about **ASP.NET Core, MVC, C#, RESTFUL API**
+- 🎯 Future Goal: **Open Source & Freelancing**
+- ⚡ Fun fact: I love building real-time communication systems
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,python" />
 </p>
 
-I love doing **real-life projects** that solve actual problems. Passionate about clean code, scalable architecture, and delivering high-quality web applications.
+- ASP.NET Core  
+- MVC  
+- Entity Framework  
+- RESTFUL API  
+- FastAPI  
 
 ---
 
-### 🛠️ Technologies & Tools
-
-**Backend**  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-**Database**  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Others**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,sass" />
+</p>
 
 ---
 
-### 🔥 Featured Project
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
 
-**MessagingApp**  
-Real-time communication platform with group chat, private messaging, and modern features.
-
-- Real-time messaging using SignalR
-- Group chat & online status
-- Clean, responsive UI
-
-**More awesome projects available on my repositories →**
+- Microsoft SQL Server  
+- PostgreSQL  
+- MySQL  
 
 ---
 
-### 🎯 Future Goals
+## 📌 Featured Project
 
-- Contribute more to **Open Source**
-- Grow as a **Freelancer**
-- Build impactful products that help people
+### 💬 MessagingApp
+> Real-time communication application with modern messaging features.
 
----
+✨ Features:
+- Real-time Messaging
+- Group Chat
+- Modern UI
+- Fast Communication System
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mezanur-rahaman&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mezanur-rahaman&show_icons=true&theme=radical&hide_border=true)
-
-</div>
-
----
-
-### 📫 Connect With Me
-
-- **LinkedIn**: [Mezanur Rahaman](https://www.linkedin.com/in/mezanur-rahaman-6066752b5)
-- **Email**: [rmezanur521@gmail.com](mailto:rmezanur521@gmail.com)
+🛠️ Tech Used:
+- ASP.NET Core
+- SignalR
+- SQL Server
+- Bootstrap
+- JavaScript
 
 ---
 
-<div align="center">
+## 📊 GitHub Stats
 
-### Visitors
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mezanur-rahaman.mezanur-rahaman&left_color=0A66C2&right_color=555555)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180em"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180em"/>
+</p>
 
-*Made with passion & ☕*
+---
 
-</div>
+## 🔥 GitHub Streak
 
-<script>
-// Typing Animation
-const texts = [
-  "Crafting scalable web applications with .NET",
-  "Turning ideas into reality through code",
-  "Always learning • Always building",
-  "I love doing real-life projects ✨"
-];
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rmezanur521-boop&theme=tokyonight&hide_border=false"/>
+</p>
 
-let count = 0;
-let index = 0;
-let currentText = '';
-let letter = '';
+---
 
-(function type() {
-  if (count === texts.length) {
-    count = 0;
-  }
-  currentText = texts[count];
-  letter = currentText.slice(0, ++index);
+## 🌐 Connect With Me
 
-  document.getElementById("typing").textContent = letter;
+<p align="left">
+<a href="https://www.linkedin.com/in/mezanur-rahaman-6066752b5" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
+</a>
 
-  if (letter.length === currentText.length) {
-    count++;
-    index = 0;
-    setTimeout(type, 2000);
-  } else {
-    setTimeout(type, 50);
-  }
-}());
-</script>
+<a href="mailto:rmezanur521@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" width="40" />
+</a>
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="visitor counter"/>
+</p>
+
+---
+
+<p align="center">
+  <i>“I love doing real-life projects.”</i>
+</p>
